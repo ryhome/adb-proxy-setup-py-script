@@ -55,8 +55,8 @@ By automating these tasks, the script saves time and minimizes errors compared t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-repo-name>/adb-proxy-setup.git
-cd adb-proxy-setup
+git clone https://github.com/<your-repo-name>/adb-proxy-setup-py-script.git
+cd adb-proxy-setup-py-script
 ```
 
 ### 2. Run the Script
